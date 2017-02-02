@@ -15,8 +15,9 @@
 See [this](http://slidewiki.org/slide/24191) for more details.
 
 ## Rule Extraction from Random Forest: The RF+HC Methods
-[Link](https://www.researchgate.net/publication/272742180_Rule_Extraction_from_Random_Forest_the_RFHC_Methods)
+Random forest (RF) is a tree-based learning method, which exhibits a high ability to generalize on real data sets. Nevertheless, a possible limitation of RF is that it generates a forest consisting of many trees and rules, thus it is viewed as a black box model. In this paper, the RF+HC methods for rule extraction from RF are proposed. Once the RF is built, a hill climbing algorithm is used to search for a rule set such that it reduces the number of rules dramatically, which significantly improves comprehensibility of the underlying model built by RF. The experimental results show that the proposed methods outperform one of the state-of-the-art methods in terms of scalability and comprehensibility while preserving the same level of accuracy.
 
+See [link](https://www.researchgate.net/publication/272742180_Rule_Extraction_from_Random_Forest_the_RFHC_Methods) for the complete paper.
 
 ## Rule extraction from support vector machines
 
