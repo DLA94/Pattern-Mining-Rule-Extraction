@@ -16,3 +16,8 @@ See [this](http://slidewiki.org/slide/24191) for more details.
 
 ## Rule Extraction from Random Forest: The RF+HC Methods
 [Link](https://www.researchgate.net/publication/272742180_Rule_Extraction_from_Random_Forest_the_RFHC_Methods)
+
+
+## Rule extraction from support vector machines
+
+## rule extraction from neural network
