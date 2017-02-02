@@ -11,7 +11,6 @@
   - IF age = mid-age THEN buys_computer = yes
   - IF age = old AND credit_rating = excellent THEN buys_computer = no
   - IF age = old AND credit_rating = fair THEN buys_computer = yes
-  
-![Image](http://slidewiki.org/slide/24191)
-  
-  
+See [this](http://slidewiki.org/slide/24191) for more details.
+
+## Rule Extraction from Random Forest: The RF+HC Methods
