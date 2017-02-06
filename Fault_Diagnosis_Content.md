@@ -1,4 +1,8 @@
 ## [Recent Progress on Mechanical Condition Monitoring and Fault diagnosis](http://ac.els-cdn.com/S187770581101530X/1-s2.0-S187770581101530X-main.pdf?_tid=933a0b58-e90c-11e6-809f-00000aacb361&acdnat=1486015270_b75104f5164a840d7cde9b4047563236)
+According to the subject systems which they belong to, the fault diagnosis can be divided into three categories: 
+(1) the fault diagnosis based on control model
+(2) the fault diagnosis based on pattern recognition
+(3) the fault diagnosis based on artificial intelligence : There are many types of AI that have been applied as automatic fault diagnosis systems for different rotating machines and components such as Back Propagation-Artificial Neural Network (BP-ANN) or Multilayer Perceptron (MLP), Radial Basis Function (RBF), Probabilistic Neural Network (PNN), and Support Vector Machine (SVM)
 
 ## [WSNs-Based Mechanical Equipment State Monitoring and Fault Diagnosis in China](http://journals.sagepub.com/doi/pdf/10.1155/2015/528464)
 
@@ -15,4 +19,18 @@ In this thesis, artificial intelligence (AI) techniques are used to build a cond
 The multilayer perceptron (MLP) with Bayesian automatic relevance determination has been applied in the classification of accelerometer data.
 
 ## [Condition Monitoring, Fault Diagnostics and Prognostics of Industrial Equipment](http://www.lgi.ecp.fr/~li/materials/lecture_USTB.pdf)
+
+Diagnostics: fault detection and classification
+Prognostics: lifetime estimation
+
+- Conditionbased - Monitor the health of the system and then decide on repair actions based on the degradation level assessed 
+- Predictive - Predict the Remaining Useful Life (RUL) of the system and then decide on repair actions based on the predicted RUL
+
+Methodology Box image
+Approaches Image
+
+Data Driven Approach
+
+
+
 
