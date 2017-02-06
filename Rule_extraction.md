@@ -11,6 +11,7 @@
   - IF age = mid-age THEN buys_computer = yes
   - IF age = old AND credit_rating = excellent THEN buys_computer = no
   - IF age = old AND credit_rating = fair THEN buys_computer = yes
+
 ![Image](https://github.com/2021rahul/Pattern-Mining-Rule-Extraction/blob/master/img/rule_extraction_decision_tree.png)
 
 ## Rule Extraction from Random Forest: The RF+HC Methods
