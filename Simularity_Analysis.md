@@ -1,4 +1,4 @@
-# Simularity Analysis
+# [Simularity Analysis](http://simularity.com/)
 ## Artificial Intelligence For Predictive Maintenance, Event Prediction, and Anomaly Detection
 It creates a multivariate and complex view of the world based on the data it ingests and is able to do temporal reasoning, and learning on the fly, _without models to train and deploy, nor rules to create._
 
