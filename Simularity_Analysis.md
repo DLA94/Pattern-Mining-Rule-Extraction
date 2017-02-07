@@ -25,11 +25,11 @@ Dashboard indicates the real time status of the drives, and flags those that are
 Simularity can find anomalies in logs and more effectively manage the data center.
 
 ## Real Time Deep Learning To The Edges Of The Internet Of Things
-They are effectively doing real time deep learning on massive amounts of time series data. Automatically learn normal individual sensor behavior, including both short and long term cyclic behavior(!!!).
+They are effectively doing real time deep learning on massive amounts of time series data. Automatically learn normal individual sensor behavior, including both short and long term cyclic behavior**(!!!)**.
 
 Combination of Convolutional Neural Networks, Self Organizing maps, Clustering algorithms, statistical correlation and similarity measurements and symbolic representation.
 
-(!!!) Here we can think of applying a LSTM(Long short term model) model to each sensor to identify both short and long term cyclic patterns and mark anomalous behaviour.
+**(!!!)** Here we can think of applying a LSTM(Long short term model) model to each sensor to identify both short and long term cyclic patterns and mark anomalous behaviour.
 
 ## Technology Used
 ![Image](http://simularity.com/wp-content/uploads/2015/05/technology-platform.png)
