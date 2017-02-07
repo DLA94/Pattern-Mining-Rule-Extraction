@@ -27,8 +27,3 @@ See [link](https://www.researchgate.net/publication/272742180_Rule_Extraction_fr
 In this work, a procedure for rule extraction from support vector machines is proposed: the SVM+Prototypes method. Once determined the decision function by means of a SVM, a clustering algorithm is used to determine prototype vectors for each class. These points are combined with the support vectors using geometric methods to define ellipsoids in the input space, which are later transfers to if-then rules. 
 
 -[Rule Extraction from Support Vector Machines: An Overview of Issues and Application in Credit Scoring](https://www.google.co.in/url?sa=t&rct=j&q=&esrc=s&source=web&cd=4&cad=rja&uact=8&ved=0ahUKEwibytHBi_PRAhVIurwKHcgHCyIQFggxMAM&url=http%3A%2F%2Fwww.springer.com%2Fcda%2Fcontent%2Fdocument%2Fcda_downloaddocument%2F9783540753896-c1.pdf%3FSGWID%3D0-0-45-470107-p173762623&usg=AFQjCNEsMgeIjrMOrcbznfxv8VdkuMj6lA&bvm=bv.146094739,d.dGc)
-
-
-
-## Rule Extraction from Artificial Neural Network
-[Using Rule Extraction to Improve the Comprehensibility of Predictive Models](https://poseidon01.ssrn.com/delivery.php?ID=963020092123085102015083126070016073033078047010022006094074113002102117011026113007006058039044111113028119004087124067013008071094078049013109122072093107071065055095089121099096127104073012122126103117086101098027093001090079126113030015090126&EXT=pdf)
