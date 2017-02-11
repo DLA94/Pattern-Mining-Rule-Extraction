@@ -1,8 +1,9 @@
 digraph Tree {
-node [shape=box] ;
-0 [label="X[3] <= 0.8\ngini = 0.6667\nsamples = 150\nvalue = [50, 50, 50]"] ;
-1 [label="gini = 0.0\nsamples = 50\nvalue = [50, 0, 0]"] ;
+node [shape=box, style="filled, rounded", color="black", fontname=helvetica] ;
+edge [fontname=helvetica] ;
+0 [label=<petal width (cm) &le; 0.8<br/>gini = 0.6667<br/>samples = 150<br/>value = [50, 50, 50]<br/>class = setosa>, fillcolor="#e5813900"] ;
+1 [label=<gini = 0.0<br/>samples = 50<br/>value = [50, 0, 0]<br/>class = setosa>, fillcolor="#e58139ff"] ;
 0 -> 1 [labeldistance=2.5, labelangle=45, headlabel="True"] ;
-2 [label="gini = 0.5\nsamples = 100\nvalue = [0, 50, 50]"] ;
+2 [label=<gini = 0.5<br/>samples = 100<br/>value = [0, 50, 50]<br/>class = versicolor>, fillcolor="#39e58100"] ;
 0 -> 2 [labeldistance=2.5, labelangle=-45, headlabel="False"] ;
 }
