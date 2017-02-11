@@ -27,15 +27,8 @@ score = np.mean(cross_val_score(rf_classifier,X,y,scoring='accuracy',cv=crossval
 print('Depth: 4 Accuracy: %.3f' % (score))
 i_tree = 0
 for tree_in_forest in rf_classifier.estimators_:
-	print ("here")
 	outfile = 'rftree_' + str(i_tree) + '.dot'
 	tree.export_graphviz(tree_in_forest, out_file=outfile, feature_names=features,class_names=classes,filled=True,rounded=True,special_characters=True)
 	i_tree = i_tree + 1
 
-
-import os
-cwd = os.getcwd()
-listfile=[]
-for file in os.listdir(cwd):
-    if file.endswith(".dot"):
-    	listfile.append(file)
+for file in ./*.dot; do dot -Tpng "$file" -o "$(basename $file .dot).png"; done
