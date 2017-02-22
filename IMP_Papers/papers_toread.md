@@ -4,3 +4,4 @@
 
 [A Feature Fusion Based Forecasting Model for Financial Time Series](http://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0101113&type=printable)
 
+[TIME SERIES ANALYSIS ON STOCK MARKET FOR TEXT MINING CORRELATION OF ECONOMY NEWS](https://arxiv.org/ftp/arxiv/papers/1403/1403.2002.pdf)
